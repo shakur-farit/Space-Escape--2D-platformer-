@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Feet
+  - Foreground
+  - ScorePickup
+  - Door
+  - EscapeShip
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - SingleBoom
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackGroundSpace
+    uniqueID: 889259373
+    locked: 0
+  - name: Background
+    uniqueID: 390700569
+    locked: 0
+  - name: Foreground
+    uniqueID: 3140870261
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: MegaBoom
+    uniqueID: 967605953
+    locked: 0
